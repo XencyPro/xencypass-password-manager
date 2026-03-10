@@ -1,12 +1,33 @@
-# xencypass-offline-password-manager
-A secure, offline-first password manager built with Flutter. Protect your credentials with biometric unlock, manage recovery codes, and enjoy private backups via Google Drive API.
+# 🛡️ XencyPass - Offline Password Manager
 
-## 🛡️ About XencyPass
-XencyPass is a premium, high-security password management solution designed for users who prioritize privacy. Built with Flutter, it offers a seamless experience on mobile devices without ever sending your sensitive data to third-party servers.
+Welcome to the official documentation portal for **XencyPass**. This application is designed to keep your digital life secure with premium offline-first storage and private cloud backups.
 
-### 🚀 Key Features:
-* **Offline-First:** Your data never leaves your device unless you choose to back it up.
-* **Google Drive Backup:** Securely sync your vault to your personal Google Drive account.
-* **Biometric Security:** Unlock your vault instantly with Fingerprint or Face ID.
-* **8-Digit Recovery Support:** Specialized management for recovery phrases and security codes.
-* **Premium UI/UX:** Clean, modern Dark Charcoal & Primary Orange interface with fluid scaling.
+---
+
+## 📑 Quick Navigation
+* 🔒 [Privacy Policy](PRIVACY_POLICY.md)
+* 📜 [Terms & Conditions](TERMS_CONDITIONS.md)
+* 👤 [About Developer](ABOUT_US.md)
+* 🚀 [How to Install](INSTALLATION.md)
+
+---
+
+## ✨ Key Features
+- **Zero-Knowledge Architecture:** No central server; your data stays on your phone.
+- **Biometric Protection:** Securely unlock using Fingerprint or Face ID.
+- **8-Digit Recovery Support:** Manage specialized recovery codes with ease.
+- **Private Drive Backup:** Backup and Restore using your personal Google Drive account.
+- **Premium UI:** A modern Dark Charcoal & Primary Orange interface.
+
+---
+
+## 📲 App Assets & Downloads
+You can find the latest stable releases in the **[Releases](https://github.com/XencyPro/xencypass-offline-password-manager/releases)** section.
+
+---
+
+## 📧 Support & Contact
+For any security-related queries or help, please reach out to us:
+- **Email:** sahfay.official@gmail.com
+- **Facebook:** https://facebook.com/xencypro
+- **Twitter:** https://x.com/xencypro
