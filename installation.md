@@ -7,7 +7,7 @@
 
 ### 📥 Download Instructions
 1. Navigate to the **[Releases](https://github.com/XencyPro/xencypass-offline-password-manager/releases)** section.
-2. Download the latest `app-release.apk` (or the `.aab` file if you are using a custom installer).
+2. Download the latest `XencyPass-release_1.0.1.apk`.
 
 ### 🛠️ Setup Steps
 1. **Initial Launch:** Set up your **Master PIN**. Choose something memorable but secure.
